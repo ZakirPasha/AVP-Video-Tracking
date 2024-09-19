@@ -36,11 +36,11 @@ COMING SOON!
 - **pictures**: Folder of different steps (pictures) of how this was created
 
 ## Pictures of the Process
-![Everything Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/Pictures/blob/main/Everything.png)
+![Everything Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Everything.png)
 
-![Persons Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Everything_Boxed.png)
+![Persons Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Everything_Boxed.png)
 
-![Court and Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Court_Players.png)
+![Court and Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Court_Players.png)
 
-![Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Players.png)
+![Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Players.png)
 
