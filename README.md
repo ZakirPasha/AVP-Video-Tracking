@@ -42,5 +42,5 @@ COMING SOON!
 
 ![Court and Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Court_Players.png)
 
-![Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Court_Players.png)
+![Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Players.png)
 
