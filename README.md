@@ -36,7 +36,7 @@ COMING SOON!
 - **pictures**: Folder of different steps (pictures) of how this was created
 
 ## Pictures of the Process
-![Everything Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Everything.png)
+![Everything Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/Pictures/blob/main/Everything.png)
 
 ![Persons Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Everything_Boxed.png)
 
