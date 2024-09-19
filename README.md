@@ -36,5 +36,5 @@ COMING SOON!
 - **pictures**: Folder of different steps (pictures) of how this was created
 
 ## Pictures
-![Player Tracking Demo](https://github.com/zpasha/Everything.png)
+![Player Tracking Demo](https://github.com/zpasha/AVP-Video-Tracking/Everything.png)
 
