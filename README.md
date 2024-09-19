@@ -40,7 +40,7 @@ COMING SOON!
 
 ![Persons Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Everything_Boxed.png)
 
-![Court and Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Court_Players.png)
+![Court_Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Court_Players.png)
 
 ![Players](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Players.png)
 
