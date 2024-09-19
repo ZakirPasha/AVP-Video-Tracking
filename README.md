@@ -33,7 +33,7 @@ COMING SOON!
 - **Video_Final.ipynb**: The main application script.
 - **requirements.txt**: Dependencies needed to run the app.
 - **phil.mp4.txt**: The video used.
-- **pictures**: Folder of different steps (pictures) of how this was created
+- **Pictures**: Folder of different steps (pictures) of how this was created
 
 ## Pictures of the Process
 ![Everything Tagged](https://github.com/ZakirPasha/AVP-Video-Tracking/blob/main/Pictures/Everything.png)
